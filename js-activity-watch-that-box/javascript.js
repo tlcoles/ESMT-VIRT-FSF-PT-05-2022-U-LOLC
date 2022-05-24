@@ -6,8 +6,7 @@ function grow() {
 function blue() {
     myBox.style.backgroundColor = "rgb(0,0,225)";
     myBox.style.opacity = "1";
-
-    }
+}
 function fade() {
     myBox.style.opacity = ".5";
 }
