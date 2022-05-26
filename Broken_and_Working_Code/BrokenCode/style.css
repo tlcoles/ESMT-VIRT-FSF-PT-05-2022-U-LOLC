@@ -21,3 +21,12 @@ p, h1, h4 {
 	width: 100px;
 	margin:auto;
 }
+#textGreen {
+	color: green;
+}
+#textOrange {
+	color: orange;
+}
+#textPink {
+	color: pink;
+}
